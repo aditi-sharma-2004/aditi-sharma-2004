@@ -10,7 +10,7 @@ I am always looking for opportunities to collaborate on new and innovative ideas
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="aditisharma7782@gmail.com" target="_blank">
-  <a href="[https://www.linkedin.com/in/aditi-sharma-418847202/]" target="_blank">
+  <a href="https://www.linkedin.com/in/aditi-sharma-418847202/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/ADITISH46189780" target="_blank">
@@ -29,7 +29,7 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+
 
 
 ### FRAMEWORKS, PLATFORMS & LIBRARIES :
@@ -64,8 +64,6 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 	
  
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitbaria&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-	
 	
 </details>
 </p>
@@ -74,7 +72,7 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 <details>
   <summary><b>:zap: HoloPin Badges </b></summary>
 	
-[![@aditi's Holopin board](https://www.holopin.io/@aditisharma2004#badges)]([https://www.holopin.io/@aditisharma2004#badges]))   
+[![@aditi's Holopin board](https://holopin.me/aditisharma2004)]([https://www.holopin.io/@aditisharma2004]))   
 	
 	
 </details>
