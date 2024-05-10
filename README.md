@@ -6,7 +6,7 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 ### Connect with me🌐
 <div align="left">
-  <a href="https://www.instagram.com/aditisharma" target="_blank">
+  <a href="https://www.instagram.com/aditi.sharma.aa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="aditisharma7782@gmail.com" target="_blank">
