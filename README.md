@@ -86,7 +86,7 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 <summary>💻 GitHub Profile Stats</summary>
 
-|![GitHub PR's](https://github-readme-stats.vercel.app/api?username=aditi-sharma-2004&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+|![GitHub PR's](https://github-readme-stats.vercel.app/api?username=aditi-sharma-2004&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/aditi-sharma-2004/aditi-sharma-2004/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 |-|-|
 
 	
