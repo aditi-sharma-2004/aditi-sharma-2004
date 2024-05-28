@@ -81,12 +81,12 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 
 <summary>🔨 GitHub Contributions</summary>
-<img alt="Contribution Metrics" src="https://metrics.lecoq.io/aaryan2134?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
+<img alt="Contribution Metrics" src="https://metrics.lecoq.io/aditi-sharma-2004?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 
 
 <summary>💻 GitHub Profile Stats</summary>
 
-|![GitHub PR's](https://github-readme-stats.vercel.app/api?username=aaryan2134&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+|![GitHub PR's](https://github-readme-stats.vercel.app/api?username=aditi-sharma-2004&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/aaryan2134/aaryan2134/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 |-|-|
 
 	
